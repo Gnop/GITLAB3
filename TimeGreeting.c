@@ -9,7 +9,7 @@ void main()
   
   int hours, minutes; char Name[30], answer;
 
-  time_t timer; 
+  time_t timersydfsdf; 
   struct tm *time_now;
   char *the_time;
   
